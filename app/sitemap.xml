@@ -1,0 +1,45 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://cleventsphilippines.com/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="zh-tw" href="https://cleventsphilippines.com/?lang=zh"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cleventsphilippines.com/?lang=en"/>
+  </url>
+  <url>
+    <loc>https://cleventsphilippines.com/about</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="zh-tw" href="https://cleventsphilippines.com/about?lang=zh"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cleventsphilippines.com/about?lang=en"/>
+  </url>
+  <url>
+    <loc>https://cleventsphilippines.com/services</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="zh-tw" href="https://cleventsphilippines.com/services?lang=zh"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cleventsphilippines.com/services?lang=en"/>
+  </url>
+  <url>
+    <loc>https://cleventsphilippines.com/portfolio</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="zh-tw" href="https://cleventsphilippines.com/portfolio?lang=zh"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cleventsphilippines.com/portfolio?lang=en"/>
+  </url>
+  <url>
+    <loc>https://cleventsphilippines.com/contact</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="zh-tw" href="https://cleventsphilippines.com/contact?lang=zh"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cleventsphilippines.com/contact?lang=en"/>
+  </url>
+</urlset>

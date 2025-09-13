@@ -1,0 +1,22 @@
+
+User-agent: *
+Allow: /
+
+# Block admin pages
+Disallow: /admin/
+
+# Allow all search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+# Sitemap location
+Sitemap: https://cleventsphilippines.com/sitemap.xml
+
+# Crawl-delay for all bots
+Crawl-delay: 1
