@@ -471,7 +471,7 @@ export default function ContactForm() {
           <div className="text-blue-700 space-y-3">
             <div className="flex items-center justify-center">
               <i className="ri-mail-line mr-3 text-xl"></i>
-              <span className="text-lg font-medium">laolaomamawu@gmail.com</span>
+              <span className="text-lg font-medium">cleventplanningco@gmail.com</span>
             </div>
             <div className="flex items-center justify-center">
               <i className="ri-phone-line mr-3 text-xl"></i>
