@@ -40,8 +40,8 @@ export default function ContactInfo() {
     {
       icon: 'ri-mail-line',
       label: 'Email',
-      value: 'laolaomamawu@gmail.com',
-      link: 'mailto:laolaomamawu@gmail.com'
+      value: 'cleventplanningco@gmail.com',
+      link: 'mailto:cleventplanningco@gmail.com'
     },
     {
       icon: 'ri-telegram-line',
