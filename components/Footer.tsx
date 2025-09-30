@@ -188,7 +188,7 @@ export default function Footer() {
                 <a href="https://wa.me/639669460915" target="_blank" rel="noopener noreferrer" className="w-12 h-12 flex items-center justify-center bg-green-500 text-white rounded-full hover:bg-green-400 transition-colors cursor-pointer">
                   <i className="ri-whatsapp-line text-xl"></i>
                 </a>
-                <a href="https://laolaomamawu@gmail.com" className="w-12 h-12 flex items-center justify-center bg-blue-500 text-white rounded-full hover:bg-blue-400 transition-colors cursor-pointer">
+                <a href="https://cleventplanningco@gmail.com" className="w-12 h-12 flex items-center justify-center bg-blue-500 text-white rounded-full hover:bg-blue-400 transition-colors cursor-pointer">
                   <i className="ri-mail-line text-xl"></i>
                 </a>
               </div>
@@ -229,7 +229,7 @@ export default function Footer() {
                   <i className="ri-mail-line text-lime-400 mr-3 mt-1"></i>
                   <div>
                     <p className="text-gray-400 text-sm">{t.email}</p>
-                    <p className="text-white" suppressHydrationWarning={true}>laolaomamawu@gmail.com</p>
+                    <p className="text-white" suppressHydrationWarning={true}>cleventplanningco@gmail.com</p>
                   </div>
                 </div>
                 <div className="flex items-start">
