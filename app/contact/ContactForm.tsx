@@ -93,11 +93,11 @@ export default function ContactForm() {
   // 全新升級版郵件通知函數
   const sendEmailNotification = async (formData: any) => {
     try {
-      console.log('🔔 開始發送郵件通知到 laolaomamawu@gmail.com...');
+      console.log('🔔 開始發送郵件通知到 cleventplanningco@gmail.com...');
 
       // 準備完整的郵件數據
       const emailData = {
-        to: 'laolaomamawu@gmail.com',
+        to: 'cleventplanningco@gmail.com',
         from: 'contact@eventplanner.com',
         _replyto: formData.contact,
         _subject: `🎉 新的聯絡表單提交 - ${formData.name}`,
@@ -292,7 +292,7 @@ export default function ContactForm() {
               <i class="ri-mail-send-line mr-2"></i>
               <div>
                 <div class="font-semibold">✅ 郵件通知發送成功！</div>
-                <div class="text-sm">已成功發送到 laolaomamawu@gmail.com</div>
+                <div class="text-sm">已成功發送到 cleventplanningco@gmail.com</div>
               </div>
             `;
             document.body.appendChild(successDiv);
