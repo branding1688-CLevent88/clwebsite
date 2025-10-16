@@ -60,14 +60,14 @@ export default function TeamSection() {
         specialties: ['策略規劃', '客戶關係', '品質控管']
       },
       {
-        name: 'ＣＣ',
+        name: 'Narasha',
         position: '創意總監',
         image: 'https://static.readdy.ai/image/9444ec662aa7b2fd032cedbc3a4aefb7/0b5f639b4f30e1f5796de3536ef0f8d4.png',
         description: '擁有豐富的視覺設計與空間規劃經驗，讓每場活動都成為藝術品',
         specialties: ['視覺設計', '空間規劃', '創意發想']
       },
       {
-        name: 'JAY',
+        name: 'CC',
         position: '營運總監',
         image: 'https://static.readdy.ai/image/9444ec662aa7b2fd032cedbc3a4aefb7/ecfaf83c325b4c71739fa996c6a45cb3.png',
         description: '專精供應鏈管理與現場執行，確保每個環節完美銜接',
